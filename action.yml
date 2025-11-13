@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Camille's Podcast Generator"
 author: "Camille Dunning"
 description: "Generates a feed for podcast from a YAML file."
 runs:
